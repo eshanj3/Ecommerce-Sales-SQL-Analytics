@@ -1,0 +1,468 @@
+customer_id,customer_name,recency_days,order_frequency,total_monetary_value,customer_segment
+85,"Ronald Reese",2,323,65745.07,VIP
+163,"Ruben Sullivan",2,175,35524.87,VIP
+215,"David Stewart",5,92,19538.24,VIP
+429,"Thomas Jackson",10,59,13518.93,VIP
+114,"Benjamin Shaw",20,48,12878.54,VIP
+22,"Matthew Chapman",3,57,10435.14,VIP
+136,"Corey Burns",5,45,8739.38,VIP
+260,"Dennis Hernandez",14,49,7499.48,VIP
+363,"Bruce Mccormick",11,25,6592.39,VIP
+32,"William York",3,36,6113.72,VIP
+306,"Ricky Johnson",6,27,6076.25,VIP
+481,"Vernon Stewart",62,19,5965.49,VIP
+295,"Albert Jackson",52,18,5365.17,VIP
+146,"David Weber",5,21,5322.37,VIP
+184,"Rebecca Lee",13,26,5099.79,VIP
+311,"Linda Rivera",9,16,4798.13,VIP
+262,"Daniel Poole",8,17,4756.13,VIP
+199,"Bobby Mahoney",6,22,4508.15,VIP
+31,"Amy Adkins",80,12,4430.68,VIP
+346,"Misty Boone",10,15,4247.39,VIP
+358,"John Newman",38,19,4215.56,VIP
+312,"Heather Mendoza",9,20,4190.98,VIP
+486,"Brandon Martin",21,13,4049.79,VIP
+382,"David Carter",125,11,4048.90,VIP
+125,"Kimberly Beltran",17,14,4040.08,VIP
+271,"Jessica Rodriguez",68,15,4038.03,VIP
+129,"Timothy Drake",6,18,3937.65,VIP
+81,"Matthew Snyder",25,17,3800.58,VIP
+152,"Dale Romero",8,10,3776.07,VIP
+105,"Michael Avila",68,11,3608.67,VIP
+308,"Gina Jackson",3,19,3508.93,VIP
+333,"Shannon Brown",106,13,3330.52,VIP
+480,"Andrea Gray",13,7,3277.29,VIP
+18,"Tricia Roman",6,7,3048.26,VIP
+253,"Justin Hays",160,5,3022.67,VIP
+150,"Christopher Davis",20,11,2961.10,VIP
+414,"Christina Webb",16,16,2941.36,VIP
+223,"Charles Brown",123,8,2903.59,VIP
+137,"Scott Sampson",101,9,2823.14,VIP
+214,"Christopher Parker",82,11,2805.80,VIP
+327,"Jane Flynn",5,9,2802.97,VIP
+408,"Tyler Rivera",61,11,2697.39,VIP
+377,"Jessica Payne",9,6,2691.87,VIP
+283,"Jose Hunt",41,12,2672.45,VIP
+37,"Amy Turner",14,12,2663.77,VIP
+337,"Amy Ritter",17,9,2650.47,VIP
+53,"David Fisher",7,14,2645.45,VIP
+354,"Christopher Shaffer",35,7,2630.52,VIP
+72,"Denise Webster",10,12,2625.49,VIP
+180,"Tom Perez",28,6,2619.42,VIP
+450,"Jeffrey Savage",112,10,2614.28,VIP
+57,"Andrew Sanchez",17,15,2593.99,VIP
+159,"Daniel Gregory",4,8,2585.43,VIP
+349,"Brandon Garcia",101,5,2570.83,VIP
+111,"Sean Washington",16,16,2484.70,VIP
+467,"Benjamin Crawford",15,16,2397.06,VIP
+359,"Hannah Abbott",22,10,2330.13,VIP
+456,"Cynthia Powell",15,10,2317.21,VIP
+24,"David Walls",68,7,2312.54,VIP
+329,"Philip Wilson",11,9,2301.95,VIP
+318,"Amanda Little",100,4,2299.70,"At Risk"
+170,"Miguel Mitchell",28,8,2291.73,VIP
+270,"Roger Gray",13,8,2248.65,VIP
+323,"Samuel Horton",29,12,2212.41,VIP
+84,"Kelly Sullivan",110,13,2169.09,VIP
+145,"Gina Henry",7,8,2158.42,VIP
+243,"Joshua Evans",2,9,2138.68,VIP
+332,"Samantha Arias",56,7,2093.15,VIP
+12,"Jose Richards",11,13,2027.02,VIP
+287,"Michael Taylor",56,5,2007.96,VIP
+490,"Kimberly Kent",26,6,2001.70,VIP
+237,"Jessica Watts",16,13,2000.18,VIP
+494,"Kelly Reed",58,9,1982.59,VIP
+20,"Monique Henderson",197,4,1973.24,Churned
+407,"Tammy Johnson",133,4,1971.55,Churned
+316,"Cynthia Allen",76,3,1969.78,"At Risk"
+302,"Victoria Henry",45,7,1897.24,VIP
+250,"Brian Mack",113,7,1893.55,VIP
+341,"Brian Bell",26,9,1863.43,VIP
+410,"Jonathan Rodriguez",109,6,1849.49,VIP
+220,"Rachel Morgan",25,9,1820.85,VIP
+14,"Wendy Rice",28,6,1802.49,VIP
+402,"Jennifer Sellers",85,5,1801.80,VIP
+420,"Scott Baker",43,8,1795.48,VIP
+25,"Donna Gomez",72,4,1783.95,"At Risk"
+422,"Gloria Mayer",168,6,1783.67,VIP
+345,"Kayla Powell",8,7,1773.88,VIP
+65,"Robert Rivera",36,5,1770.27,VIP
+276,"Shelly Powers",37,7,1748.01,VIP
+122,"Linda Santana",39,6,1740.56,VIP
+350,"Susan Harris",13,4,1730.04,Loyal
+149,"Larry Edwards",58,6,1729.38,VIP
+189,"Matthew Thomas",89,5,1713.70,VIP
+411,"Trevor Gray",43,10,1712.08,VIP
+192,"John Fowler",44,5,1696.92,VIP
+472,"Christy Johns",149,7,1676.37,VIP
+447,"Ashley Lee",48,4,1674.75,Loyal
+315,"Jason Salinas",120,6,1663.38,VIP
+463,"Brandon Wilson",95,6,1661.49,VIP
+200,"Deborah Mitchell",13,5,1641.27,VIP
+210,"Justin Hendricks",60,8,1641.05,VIP
+261,"Jeffery Wright",34,5,1627.81,VIP
+231,"Michael Roberts",51,5,1623.94,VIP
+466,"Tyler Lynch",20,6,1613.49,VIP
+43,"Teresa Williams",146,4,1611.60,Churned
+153,"Michael Farmer",52,7,1608.07,VIP
+390,"Christopher Boone",14,3,1604.73,Loyal
+101,"Joshua Shea",18,6,1587.77,VIP
+209,"Victor Hughes",41,9,1581.41,VIP
+205,"Tina Gould",82,5,1498.16,VIP
+254,"Lisa Rivera",191,2,1477.12,Churned
+157,"Shelly Carlson",6,10,1445.05,VIP
+198,"Lisa Brown",141,4,1434.09,Churned
+448,"Michael Evans",87,4,1417.74,"At Risk"
+229,"Nicole Pena",4,4,1405.79,Loyal
+297,"Joseph Glass",62,6,1364.56,VIP
+274,"Carla Chambers",13,5,1362.27,VIP
+305,"Sean Juarez",90,7,1359.51,VIP
+182,"Eric White",52,6,1345.56,VIP
+497,"Dustin Santiago",12,4,1344.97,Loyal
+357,"Peggy Taylor",106,4,1337.63,"At Risk"
+208,"Chase Taylor",37,6,1335.61,VIP
+324,"Daniel Marsh",19,5,1327.40,VIP
+476,"Scott Brown",37,4,1316.74,Loyal
+418,"Tiffany Wells",25,6,1316.50,VIP
+464,"Jamie Jennings",156,6,1315.68,VIP
+47,"Monica Walker",52,5,1308.05,VIP
+83,"Angela Allen",150,4,1301.56,Churned
+462,"Jonathan Nichols",73,3,1300.57,"At Risk"
+95,"Terry Johnson",106,4,1289.96,"At Risk"
+292,"Harry Hull",97,2,1270.29,"At Risk"
+446,"Tyler Phillips",56,3,1260.27,Loyal
+54,"Amy Smith",2,5,1248.29,VIP
+97,"Margaret Jones",14,4,1241.74,Loyal
+428,"Kimberly Floyd",91,3,1235.11,"At Risk"
+482,"Angela Smith",87,7,1227.83,VIP
+475,"Samuel Carr",71,10,1221.74,VIP
+313,"Travis Johnston",3,7,1220.80,VIP
+293,"Laura Miller",67,3,1218.60,"At Risk"
+162,"Linda Jones",74,6,1212.16,VIP
+164,"Stacey Stevens",17,4,1211.15,Loyal
+353,"Erin Smith",139,4,1208.94,Churned
+46,"Daniel Brennan",10,7,1193.36,VIP
+437,"Tracy Griffin",22,7,1192.22,VIP
+131,"Ralph Baker",122,3,1191.22,Churned
+336,"Stephen Newton",93,4,1187.43,"At Risk"
+147,"Russell Mcguire",295,2,1174.28,Churned
+484,"Shawn Castro",12,5,1172.71,VIP
+26,"Debbie Brown",17,4,1170.94,Loyal
+1,"Danielle Johnson",44,5,1158.62,VIP
+364,"Danielle Medina",28,5,1156.37,VIP
+128,"James Buchanan",92,3,1155.09,"At Risk"
+171,"Latoya Huang",96,4,1150.90,"At Risk"
+281,"Alexis Giles",5,6,1144.38,VIP
+179,"Clarence Santiago",97,3,1139.67,"At Risk"
+144,"Bradley Logan",4,6,1129.59,VIP
+405,"Tanya Steele",17,3,1123.80,Loyal
+309,"Robert Washington",28,5,1109.38,VIP
+140,"Angela Willis",44,6,1108.88,VIP
+338,"Maria Potter",24,4,1103.93,Loyal
+479,"Tyler Martin",16,6,1103.57,VIP
+61,"Caitlin Dodson",99,6,1102.22,VIP
+118,"Jeremy Davis",86,4,1092.36,"At Risk"
+115,"Jennifer Ortiz",110,5,1091.93,VIP
+148,"Russell Beasley",39,4,1091.44,Loyal
+194,"Jacob Barnett",8,5,1088.18,VIP
+244,"Sarah Pope",35,7,1085.96,VIP
+178,"Dawn Murphy",37,5,1076.20,VIP
+216,"Kimberly Bowman",143,4,1072.85,Churned
+386,"Tanya Foster",85,4,1070.06,"At Risk"
+368,"Stephanie Mills",101,4,1065.62,"At Risk"
+67,"Patricia Houston",53,5,1060.97,VIP
+62,"Amy Merritt",4,7,1044.21,VIP
+44,"Nancy Dickson",3,2,1043.35,"New / Low Engagement"
+267,"Derek May",10,6,1036.32,VIP
+326,"Nicole Cole",150,4,1029.38,Churned
+370,"Courtney Crawford",116,4,1025.62,"At Risk"
+453,"Derrick Gonzalez",303,1,1017.93,Churned
+282,"James Herman",60,4,1015.10,Loyal
+298,"Alexis Clark",68,5,998.51,VIP
+256,"Mark Morales",15,4,985.48,Loyal
+142,"Kristina Chapman",188,4,967.26,Churned
+52,"Lee Charles",155,4,965.27,Churned
+392,"Joshua Griffin",36,4,957.82,Loyal
+42,"Mike Tran",116,3,949.64,"At Risk"
+127,"Kristina Johnson",85,7,942.20,VIP
+156,"Alyssa Bennett",201,3,941.31,Churned
+166,"William Bullock",19,4,926.66,Loyal
+181,"Mary Stephenson",235,3,925.41,Churned
+232,"Cindy Carr",19,3,915.14,Loyal
+436,"Micheal Marshall",208,3,911.45,Churned
+245,"Loretta Blevins",195,2,909.44,Churned
+217,"Marie Holmes",155,2,905.57,Churned
+434,"Cameron Mckinney",88,3,880.88,"At Risk"
+362,"Felicia Farmer",339,2,875.00,Churned
+251,"Robert Monroe",121,5,871.16,VIP
+195,"Angela Myers",41,2,871.01,"New / Low Engagement"
+34,"Sarah Harris",293,4,869.65,Churned
+301,"Mary Peterson",141,3,863.37,Churned
+58,"Crystal Lee",131,4,862.56,Churned
+290,"Roberta Hopkins",72,2,854.29,"At Risk"
+79,"Debra Gilbert",93,3,850.41,"At Risk"
+435,"Nancy Gonzalez",7,7,842.39,VIP
+398,"Stacie Johnston",95,5,842.19,VIP
+234,"Linda Stone",87,8,830.09,VIP
+202,"Sandra Stone",73,4,829.04,"At Risk"
+365,"Lindsey Herrera",118,4,824.60,"At Risk"
+87,"Kathleen Carlson",13,3,810.95,Loyal
+4,"Katherine Moore",67,3,806.54,"At Risk"
+92,"Kathy Obrien",108,5,805.81,VIP
+299,"Francisco Allen",88,4,794.49,"At Risk"
+141,"Tracey Huerta",43,3,789.90,Loyal
+82,"Caitlyn Beard",45,5,788.58,VIP
+458,"Natalie Collins",159,2,786.57,Churned
+193,"Zachary Allen",87,2,780.43,"At Risk"
+38,"Dennis Wilson",53,2,769.17,"New / Low Engagement"
+126,"Jeffery Lee",53,4,766.40,Loyal
+130,"Michelle Ramsey",40,4,766.31,Loyal
+73,"Elizabeth Elliott",52,5,760.94,VIP
+355,"Karen Anderson",196,2,760.71,Churned
+372,"John Ruiz",114,3,754.94,"At Risk"
+236,"Kevin Cabrera",201,3,746.48,Churned
+339,"Christopher Grimes",97,6,745.68,VIP
+344,"Philip Thomas",57,4,743.00,Loyal
+240,"Lee Hernandez",90,2,742.54,"At Risk"
+258,"Desiree Schwartz",87,3,740.89,"At Risk"
+371,"Dakota Berry",34,5,728.43,VIP
+385,"Gina Mckenzie",49,5,728.32,VIP
+35,"Leslie Walton",113,4,725.33,"At Risk"
+427,"Kimberly Rodriguez",165,5,724.83,VIP
+219,"Amanda Shaw",14,5,716.00,VIP
+121,"Tyler Aguilar",135,5,710.94,VIP
+183,"Tara Bishop",28,4,710.75,Loyal
+124,"Michael Phillips",137,5,709.53,VIP
+45,"Nicole Johnson",27,3,702.23,Loyal
+259,"Sandra Barron",86,3,693.65,"At Risk"
+169,"Crystal Hogan",12,3,691.17,Loyal
+322,"Jessica Bailey",141,4,689.38,Churned
+86,"Jennifer Stewart",189,3,685.77,Churned
+239,"Maureen Hernandez",130,2,684.93,Churned
+139,"Andrew Buchanan",347,1,681.83,Churned
+190,"Janice West",67,6,681.20,VIP
+443,"Mary Hoffman",341,2,678.80,Churned
+6,"Nicholas Arnold",68,5,676.87,VIP
+492,"Raymond Cooper",31,3,675.48,Loyal
+185,"Tammy Montoya",112,2,674.79,"At Risk"
+174,"Nathan Campbell",116,2,673.10,"At Risk"
+113,"Thomas Mcintyre",294,3,662.52,Churned
+228,"Phillip Bryant",351,1,653.68,Churned
+304,"Kristen Moore",41,2,648.61,"New / Low Engagement"
+74,"Tamara Higgins",20,5,642.92,VIP
+165,"Christian Harrell",147,4,638.47,Churned
+151,"Mark Martinez",190,2,635.20,Churned
+120,"Amanda Knight",62,2,629.24,"At Risk"
+10,"Linda Morales",213,2,624.43,Churned
+335,"Gary Cunningham",128,3,617.69,Churned
+319,"Cheyenne Hart",10,5,614.04,VIP
+489,"Dennis Porter",113,3,611.51,"At Risk"
+419,"Christopher Stephens",62,2,607.96,"At Risk"
+70,"Nicholas Lewis",246,4,598.10,Churned
+423,"Rachel Mcbride",111,5,597.00,VIP
+221,"Barbara Curtis",109,2,593.04,"At Risk"
+116,"Raymond Miller",24,3,590.66,Loyal
+393,"Robert Pierce",46,3,587.37,Loyal
+387,"Melissa Hawkins",128,2,575.36,Churned
+264,"David Perry",201,2,574.29,Churned
+280,"Charles Ballard",71,4,573.39,"At Risk"
+71,"Thomas Curry",33,6,571.69,VIP
+487,"James Martinez",59,4,568.96,Loyal
+403,"Daniel Fox",56,3,568.39,Loyal
+379,"Jessica Garcia",155,5,567.94,VIP
+317,"Timothy Morales",24,3,566.38,Loyal
+273,"Karen Parsons",230,3,566.28,Churned
+320,"Jonathan Dixon",41,6,559.93,VIP
+167,"Glenn Hernandez",74,3,558.87,"At Risk"
+445,"Rachel Trujillo",59,3,555.23,Loyal
+225,"John Martinez",191,1,551.30,Churned
+255,"Krystal Bradley",167,4,550.51,Churned
+499,"Christina Lowe",149,2,549.08,Churned
+331,"Donald Price",15,2,548.19,"New / Low Engagement"
+275,"Bruce Fry",115,2,546.92,"At Risk"
+412,"Jeremiah Hayes",27,4,534.46,Loyal
+278,"Robert Butler",190,3,533.21,Churned
+401,"Jesse Robinson",92,3,529.38,"At Risk"
+218,"Patty Singleton",142,1,528.08,Churned
+19,"Lisa Spence",107,2,527.99,"At Risk"
+99,"Carly Preston",35,3,527.43,Loyal
+367,"Chelsea Parker",85,2,526.91,"At Risk"
+100,"Barbara Sampson",158,4,519.35,Churned
+449,"David Green",24,2,517.92,"New / Low Engagement"
+361,"Allison Levine",6,5,517.75,VIP
+468,"Christopher Rodriguez",25,3,516.67,Loyal
+108,"Marilyn Jimenez",253,2,510.80,Churned
+33,"Pamela Sanchez",41,3,502.88,Loyal
+307,"Kelly Hughes",39,3,496.30,Loyal
+381,"Cody Anderson",53,3,493.62,Loyal
+444,"Danielle Hensley",17,3,488.03,Loyal
+69,"Phillip Elliott",82,2,486.14,"At Risk"
+28,"Andrea Williams",84,4,484.70,"At Risk"
+106,"Keith Gilmore",173,3,483.43,Churned
+473,"Stephen Houston",56,1,478.44,"New / Low Engagement"
+11,"Victor Wilkerson",18,2,467.86,"New / Low Engagement"
+227,"Erik Ferrell",24,4,464.51,Loyal
+498,"Mary Vaughn",103,3,464.48,"At Risk"
+80,"John Michael",302,1,464.01,Churned
+374,"Christian Watson",4,4,463.24,Loyal
+55,"Scott Lewis",15,3,462.27,Loyal
+222,"Keith Frye",124,3,460.23,Churned
+39,"Matthew Watts",97,3,458.93,"At Risk"
+477,"Stephanie Marks",58,6,458.66,VIP
+455,"Joshua Juarez",44,5,457.72,VIP
+27,"Donald White",118,3,455.88,"At Risk"
+288,"Mary Jones",57,3,454.08,Loyal
+328,"Daniel Lambert",166,2,446.83,Churned
+388,"Maria Haas",13,6,438.31,VIP
+284,"Luke Harris",24,2,428.34,"New / Low Engagement"
+265,"Jonathan Smith",83,3,424.02,"At Risk"
+102,"Mathew Santiago",140,3,423.56,Churned
+439,"Tammie Vincent",227,2,412.08,Churned
+334,"Anna Delgado",40,4,410.18,Loyal
+66,"Brandy Dominguez",54,2,403.36,"New / Low Engagement"
+21,"Raymond Powers",186,2,401.66,Churned
+235,"Francisco Ewing",32,4,397.45,Loyal
+496,"Julie Skinner",328,1,393.65,Churned
+51,"Amanda Ball",202,2,391.94,Churned
+380,"Bradley Hall",4,5,390.10,VIP
+9,"Noah Mayo",131,5,389.08,VIP
+457,"Stephanie Mcclain",7,2,388.03,"New / Low Engagement"
+404,"Marcus Daugherty",6,5,387.60,VIP
+478,"Darlene Hernandez",30,3,385.04,Loyal
+176,"Tamara Morrison",77,3,379.56,"At Risk"
+191,"Shelby Lynch",51,3,379.43,Loyal
+94,"Donna Moore",12,2,378.75,"New / Low Engagement"
+96,"Kristin Weber",27,3,374.36,Loyal
+15,"Danielle Rodriguez",268,3,370.57,Churned
+132,"Lynn Bentley",58,1,370.15,"New / Low Engagement"
+3,"Jennifer Miles",179,2,364.25,Churned
+112,"Jacob Terry",288,1,355.93,Churned
+314,"Anne Vargas",3,2,351.56,"New / Low Engagement"
+360,"Debbie Bowers",185,1,343.87,Churned
+77,"Amanda Stanley",3,3,343.12,Loyal
+454,"Henry Miller",353,1,342.79,Churned
+442,"Johnathan Owens",18,4,337.55,Loyal
+56,"Justin Beck",7,4,335.54,Loyal
+394,"Laura Wright",305,1,333.64,Churned
+452,"James Wilson",30,5,333.32,VIP
+424,"Teresa Stokes",236,3,332.72,Churned
+248,"Brian Gutierrez",28,2,329.69,"New / Low Engagement"
+188,"Wayne Young",39,2,327.30,"New / Low Engagement"
+277,"Amanda Allen",344,1,325.29,Churned
+246,"Scott Scott",17,3,318.12,Loyal
+160,"Carol Smith",11,2,315.95,"New / Low Engagement"
+196,"Michael Jones",257,2,314.82,Churned
+158,"Scott Coleman",20,1,312.87,"New / Low Engagement"
+415,"Brian Rivera",5,2,312.47,"New / Low Engagement"
+68,"Elizabeth Yates",77,2,306.19,"At Risk"
+461,"Andrew Wagner",67,1,304.70,"At Risk"
+230,"Joseph Diaz",126,4,302.57,Churned
+400,"Stacy Copeland",9,3,300.02,Loyal
+257,"Jose Young",132,3,298.39,Churned
+426,"Mark Hill",60,3,297.77,Loyal
+416,"Juan Young",197,3,295.65,Churned
+93,"Veronica Torres",234,2,295.25,Churned
+49,"Joseph Rodriguez",80,3,294.92,"At Risk"
+212,"Melissa Joseph",131,2,293.46,Churned
+226,"Michelle Barnes",90,3,289.70,"At Risk"
+187,"Dylan Kim",39,2,289.36,"New / Low Engagement"
+204,"Hannah Bell",39,3,286.65,Loyal
+438,"Jonathan Rivas",36,4,278.48,Loyal
+119,"Kevin Johnson",247,2,278.42,Churned
+279,"Shannon Watson",236,3,275.98,Churned
+133,"Mark Bishop",151,3,275.55,Churned
+110,"William Hoover",311,1,275.16,Churned
+366,"Kyle Kim",179,1,271.35,Churned
+78,"Ryan Cox",17,2,271.26,"New / Low Engagement"
+348,"Justin Kelley",2,2,268.27,"New / Low Engagement"
+103,"Lisa Pierce",56,3,265.32,Loyal
+383,"Charles Harris",172,3,264.74,Churned
+321,"Edward Cuevas",259,1,260.71,Churned
+391,"Lorraine Foster",125,3,257.76,Churned
+483,"Anna Pena",9,1,251.60,"New / Low Engagement"
+107,"Eric Pierce",40,2,250.20,"New / Low Engagement"
+268,"Nicholas Miller",232,1,249.56,Churned
+471,"Katherine Williams",39,1,249.42,"New / Low Engagement"
+272,"Brittney Griffin",332,1,248.88,Churned
+2,"Christopher Henderson",36,2,245.99,"New / Low Engagement"
+90,"Brett Everett",138,2,244.49,Churned
+59,"Patricia Dalton",180,1,243.68,Churned
+351,"John Watson",138,2,235.50,Churned
+203,"Kelly Garcia",30,2,235.37,"New / Low Engagement"
+143,"Julie Alvarez",222,3,235.12,Churned
+474,"Jessica Jarvis",300,2,235.06,Churned
+134,"Darryl Williams",71,4,234.06,"At Risk"
+63,"Katie Boyd",151,1,226.28,Churned
+303,"Norman Barton",222,2,222.63,Churned
+30,"Kristen Mitchell",48,3,219.45,Loyal
+310,"Christina Ellis",231,2,218.00,Churned
+5,"Christopher Davis",27,4,216.02,Loyal
+207,"Michael Herring",125,2,214.78,Churned
+263,"Darren Harris",126,3,213.67,Churned
+459,"Kenneth Carter",219,2,211.18,Churned
+300,"Donald Hinton",42,3,205.82,Loyal
+465,"Catherine Taylor",19,4,199.76,Loyal
+356,"Michael Lewis",231,1,191.32,Churned
+432,"Julia Schroeder",245,1,185.90,Churned
+40,"Joshua Smith",40,2,182.69,"New / Low Engagement"
+91,"Crystal Brown",131,1,182.66,Churned
+440,"Kimberly Saunders",261,2,178.65,Churned
+50,"William Cruz",221,2,178.21,Churned
+41,"Ronald Smith",229,2,169.18,Churned
+7,"Tracie Wyatt",48,2,163.19,"New / Low Engagement"
+89,"Miranda Henry",245,2,162.84,Churned
+330,"Samantha Lawrence",243,2,161.97,Churned
+488,"Katherine Williams",273,1,156.79,Churned
+138,"Joshua Donaldson",35,3,155.57,Loyal
+430,"Randy Koch",99,3,154.99,"At Risk"
+247,"Joseph Rodriguez",49,2,148.47,"New / Low Engagement"
+201,"Pamela Paul",36,4,146.38,Loyal
+340,"Michelle Bishop",57,2,145.04,"New / Low Engagement"
+347,"Bryan Ferguson",97,1,140.75,"At Risk"
+373,"Jennifer Rios",212,1,140.52,Churned
+291,"Joshua Madden",72,2,136.01,"At Risk"
+343,"Joshua Rios",176,1,135.97,Churned
+433,"Jason Holloway",117,1,134.59,"At Risk"
+197,"Dennis Bell",346,1,124.76,Churned
+155,"Molly Knight",125,2,123.78,Churned
+376,"Anne Torres",28,3,116.60,Loyal
+123,"Roger Wright",11,1,115.20,"New / Low Engagement"
+233,"Kari Gonzalez",4,1,114.16,"New / Low Engagement"
+296,"Terri Jacobson",240,1,113.81,Churned
+168,"Kathleen Cole",140,1,111.88,Churned
+469,"Craig Scott",268,1,108.47,Churned
+491,"Nicole Gordon",50,2,105.82,"New / Low Engagement"
+378,"Cynthia Steele",37,2,105.41,"New / Low Engagement"
+470,"Lisa Sawyer",359,1,103.71,Churned
+389,"Christopher Willis",77,2,91.78,"At Risk"
+252,"Suzanne Howe",113,2,87.79,"At Risk"
+186,"Sarah Dawson",16,1,86.74,"New / Low Engagement"
+409,"Christopher Fletcher",226,1,82.92,Churned
+395,"Todd Durham",284,2,79.26,Churned
+23,"Carlos Johnson",243,1,78.16,Churned
+104,"Richard Robertson",281,1,77.62,Churned
+425,"Lynn Hernandez",311,1,77.46,Churned
+266,"Virginia Michael",84,1,75.80,"At Risk"
+493,"Kaitlyn Evans",242,2,72.24,Churned
+396,"Paula Osborne",206,1,69.48,Churned
+213,"Joel Snyder",221,1,68.60,Churned
+154,"Angela Lynch",323,1,66.48,Churned
+241,"Jessica Thornton",325,2,66.10,Churned
+369,"Rachel Rogers",126,1,64.53,Churned
+13,"Brandon Rodriguez",112,2,64.16,"At Risk"
+64,"Luis Fernandez",211,1,62.85,Churned
+352,"Ruben Davis",139,1,62.76,Churned
+88,"Jean Martinez",290,1,59.68,Churned
+495,"Dana Page",299,1,56.39,Churned
+109,"Andrea Reyes",261,1,53.74,Churned
+460,"Frederick Meadows",289,1,51.38,Churned
+172,"Thomas Hernandez",214,1,50.65,Churned
+206,"Ernest Johnson",101,3,50.47,"At Risk"
+325,"Steven Salinas",242,1,34.73,Churned
+441,"Jeffrey Franklin",234,1,32.74,Churned
+173,"Debbie Williams",27,1,30.58,"New / Low Engagement"
+161,"Tyler Jordan",41,1,23.57,"New / Low Engagement"
+8,"Jason Adams",191,1,22.92,Churned
+117,"Katherine Brennan",26,1,16.89,"New / Low Engagement"
+413,"Pamela Martin",122,1,15.44,Churned
+286,"Martha Porter",128,1,13.52,Churned
